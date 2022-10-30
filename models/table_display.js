@@ -20,7 +20,6 @@ async function display_products(shop_id) {
     
         </head>
         <body>
-        <h2 class="heading">Table Products</h2>
         <table class="table">
     <tr>`;
   //--- display all header of table
